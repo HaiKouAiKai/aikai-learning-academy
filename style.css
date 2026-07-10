@@ -1,1 +1,13 @@
-body{font-family:Arial;background:#F9F8F3;color:#2E2E2E;padding:20px}header{position:sticky;top:0;background:#fff;padding:10px}section{margin:40px 0}button,a{padding:10px 16px;margin:5px;background:#7A9E7E;color:#fff;text-decoration:none;border:none;border-radius:8px}
+body{font-family:Arial;background:#F9F8F3;
+     color:#2E2E2E;padding:20px}
+ header{position:sticky;
+         top:0;
+         background:#fff;
+         padding:10px}
+section{margin:40px 0}button,a
+  {padding:10px 16px;
+   margin:5px;
+   background:#7A9E7E;color:#fff;
+   text-decoration:none;
+   border:none;
+   border-radius:8px}
