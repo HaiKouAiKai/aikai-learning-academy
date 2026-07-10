@@ -1,72 +1,171 @@
+/* ==========================
+   AiKai Learning Academy
+   Version 0.6
+========================== */
+
 body{
     margin:0;
-    font-family:Arial,sans-serif;
     background:#F9F8F3;
     color:#2E2E2E;
+    font-family:Arial, Helvetica, sans-serif;
+    text-align:center;
 }
 
 header{
-    text-align:center;
-    padding:40px 20px;
+
+    padding:50px 20px;
+
 }
 
-header img{
+.logo{
+
     width:180px;
     margin-bottom:20px;
+
 }
 
-main{
-    max-width:900px;
-    margin:auto;
-    text-align:center;
-    padding:20px;
+h1{
+
+    margin:10px;
+
 }
 
-section{
-    margin:70px auto;
+.tagline{
+
+    color:#6F8F6B;
+    font-style:italic;
+    font-size:1.2rem;
+
 }
 
 nav{
-    margin-top:25px;
+
+    margin-top:35px;
+
 }
 
 nav a{
+
     display:inline-block;
+
     margin:8px;
+
     padding:12px 22px;
+
     background:#7A9E7E;
+
     color:white;
+
     text-decoration:none;
+
     border-radius:10px;
+
     transition:.3s;
+
 }
 
 nav a:hover{
-    background:#5E8062;
+
+    background:#5D7B60;
+
+}
+
+.content{
+
+    max-width:900px;
+
+    margin:auto;
+
+    padding:20px;
+
+}
+
+section{
+
+    margin:80px auto;
+
+}
+
+.welcome{
+
+    line-height:1.8;
+
+    max-width:700px;
+
+    margin:auto;
+
+}
+
+.buttons{
+
+    margin-top:35px;
+
 }
 
 .button{
+
     display:inline-block;
+
     margin:10px;
-    padding:14px 24px;
-    background:#7A9E7E;
+
+    padding:15px 24px;
+
+    background:#C9A34E;
+
     color:white;
+
     text-decoration:none;
+
     border-radius:10px;
+
 }
 
-.partner-logo{
+button{
+
+    margin:10px;
+
+    padding:15px 24px;
+
+    background:#7A9E7E;
+
+    color:white;
+
+    border:none;
+
+    border-radius:10px;
+
+    cursor:pointer;
+
+}
+
+button:hover{
+
+    background:#5D7B60;
+
+}
+
+.partner{
+
     width:180px;
-    margin-top:20px;
+
+    margin-top:30px;
+
 }
 
 .qr{
+
     width:220px;
+
     margin-top:20px;
+
 }
 
 footer{
-    text-align:center;
+
+    margin-top:100px;
+
     padding:40px;
-    color:#666;
+
+    background:#EEF3EB;
+
 }
