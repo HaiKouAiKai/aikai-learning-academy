@@ -1,5 +1,9 @@
-body{font-family:Arial;background:#F9F8F3;
-     color:#2E2E2E;padding:20px}
+body{
+    font-family: Arial;
+    background:#F9F8F3;
+    color:#2E2E2E;
+    padding:20px;
+}
 header {
     position: sticky;
     top: 0;
