@@ -1,9 +1,11 @@
 body{font-family:Arial;background:#F9F8F3;
      color:#2E2E2E;padding:20px}
- header{position:sticky;
-         top:0;
-         background:#fff;
-         padding:10px}
+header {
+    position: sticky;
+    top: 0;
+    background: white;
+    padding: 10px;
+}
 section {
     margin: 40px 0;
 }
