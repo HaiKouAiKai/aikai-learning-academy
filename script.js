@@ -1,1 +1,1 @@
-console.log('AiKai v0.5.0');
+console.log('AiKai loaded');
